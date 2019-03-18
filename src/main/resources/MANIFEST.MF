@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_27
+Built-By: itcuties
+Class-Path: commons-lang-2.1.jar
+Custom-Attribute: Here is some custom value
+Custom-Attribute-2: Here is another custom value
